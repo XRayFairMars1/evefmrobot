@@ -1,0 +1,23 @@
+{
+  "name": "evefmrobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "heroku": "^7.53.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XRayFairMars/evefmrobot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XRayFairMars/evefmrobot/issues"
+  },
+  "homepage": "https://github.com/XRayFairMars/evefmrobot#readme"
+}
